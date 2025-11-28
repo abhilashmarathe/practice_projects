@@ -219,3 +219,4 @@ if st.button("Calculate Match"):
         st.write(f"Skill Match Score: {skill_score}%")
         st.write(f"Experience Score: {round(exp_score,2)}%")
         st.write(f"Overall Job Match Score: {overall_score}%")
+
